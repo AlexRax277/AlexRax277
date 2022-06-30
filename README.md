@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <h1 align="center">Hi there, my name is <a href="" target="_blank">Alexander Rakovchen</a> 
+    <h1 align="center">Hi there, my name is <a href="https://alexrax277.github.io/business_card_website.github.io/" target="_blank">Alexander Rakovchen</a> 
     <img src="Hi.gif" height="32"/></h1>
     <h3>I'm a student of <a href="https://netology.ru/">Netology Ltd</a>. My specialty: Fullstack developer in Python. Start of studies: May 2021, expected end: November 2022.</h3>
     <h3>I'm currently looking for a job in web development. I plan to become part of a friendly and professional team where I could develop my skills in languages such as python and java script to achieve team results.</h3>
