@@ -7,12 +7,6 @@
     <title>Portfolio</title>
 </head>
 <body>
-    <style>
-    body {
-        color: black;
-        font-family: Times New Roman;
-    }
-    </style>
     <h1 align="center">Hi there, my name is <a href="" target="_blank">Alexander Rakovchen</a> 
     <img src="Hi.gif" height="32"/></h1>
     <h3>I'm a student of <a href="https://netology.ru/">Netology Ltd</a>. My specialty: Fullstack developer in Python. Start of studies: May 2021, expected end: November 2022.</h3>
