@@ -27,7 +27,12 @@
 </body>
 </html>
 
-## Technologies:
+## My course projects:
+- [Writing a software to back up photos from vk to Yandex.Disk cloud storage](https://github.com/AlexRax277/-1-)
+- [VKinder chatbot](https://github.com/AlexRax277/VKinder_test)
+- [Website development](https://alexrax277.github.io/diplom_html-css/)
+
+## Technologies I have ever used:
 ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
