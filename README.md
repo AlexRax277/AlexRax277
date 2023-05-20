@@ -25,7 +25,6 @@
                 <li>React: Library № 1 in modern web development<a href="https://github.com/AlexRax277/AlexRax277/blob/main/My_certificates/certificate-js_react.pdf"> (certificate)</a>.</li>          
         </em>
     </h3>
-    <h3>Now I am currently taking a course in "JavaScript: Advanced Web Development".</h3>
     </font>
 </body>
 </html>
