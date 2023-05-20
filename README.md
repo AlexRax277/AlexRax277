@@ -8,9 +8,9 @@
 <body>
     <h1 align="center">Hi there, my name is <a href="https://alexrax277.github.io/business_card_website.github.io/" target="_blank">Alexander Rakovchen</a> 
     <img src="Hi.gif" height="32"/></h1>
-    <h3>I'm a student of <a href="https://netology.ru/">Netology Ltd</a>. My specialty: Fullstack developer in Python. Start of studies: May 2021, expected end: April 2023.</h3>
+    <h3>I'm fullstack developer, <a href="https://netology.ru/">Netology Ltd</a> graduate. My specialty: Fullstack developer in Python.</h3>
     <h3>I'm currently looking for a job in web development. I'm planning to become part of a friendly and professional team where I could develop my skills in languages such as python and java script to achieve team results.</h3>
-    <h3>In the process, I successfully completed the following courses:
+    <h3>I successfully completed the following courses:
         <em>
             <ol>
                 <li>Fundamentals of Python programming language<a href="https://github.com/AlexRax277/AlexRax277/blob/main/My_certificates/certificate_py_basic.pdf"> (certificate);</a></li>
@@ -19,7 +19,10 @@
                 <li>Professional work with Python<a href="https://github.com/AlexRax277/AlexRax277/blob/main/My_certificates/certificate_py_advanced.pdf"> (certificate)</a>;</li>
                 <li>Django: Creating Functional Web Applications<a href="https://github.com/AlexRax277/AlexRax277/blob/main/My_certificates/certificate_django.pdf"> (certificate)</a>;</li>
                 <li>HTML and CSS: Basics of Web Design<a href="https://github.com/AlexRax277/AlexRax277/blob/main/My_certificates/certificate_html_css.pdf"> (certificate)</a>;</li>
-                <li>JavaScript: Browser basics<a href="https://github.com/AlexRax277/AlexRax277/blob/main/My_certificates/certificate_JavaScript_basic.pdf"> (certificate)</a>.</li>        
+                <li>JavaScript: Browser basics<a href="https://github.com/AlexRax277/AlexRax277/blob/main/My_certificates/certificate_JavaScript_basic.pdf"> (certificate)</a>.</li>
+                <li>JavaScript: Advanced Web Development Course<a href="https://github.com/AlexRax277/AlexRax277/blob/main/My_certificates/certificate-js_advanced.pdf"> (certificate)</a>.</li>
+                <li>Advanced JavaScript tools in the browser<a href="https://github.com/AlexRax277/AlexRax277/blob/main/My_certificates/certificate-js_advanced2.pdf"> (certificate)</a>.</li>
+                <li>React: Library № 1 in modern web development<a href="https://github.com/AlexRax277/AlexRax277/blob/main/My_certificates/certificate-js_react.pdf"> (certificate)</a>.</li>          
         </em>
     </h3>
     <h3>Now I am currently taking a course in "JavaScript: Advanced Web Development".</h3>
@@ -30,7 +33,8 @@
 ## My course projects:
 - [Writing a software to back up photos from vk to Yandex.Disk cloud storage](https://github.com/AlexRax277/-1-)
 - [VKinder chatbot](https://github.com/AlexRax277/VKinder_test)
-- [Website development](https://alexrax277.github.io/diplom_html-css/)
+- [Online-chat](https://github.com/AlexRax277/js_adv2_8th_lesson)
+- [CRUD application, feed with posts](https://github.com/AlexRax277/react-ninthLesson-2task)
 ## My [CV](CV.pdf) 
 ## Technologies I have ever used:
 ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
