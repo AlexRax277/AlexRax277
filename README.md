@@ -34,7 +34,7 @@
 - [Writing a software to back up photos from vk to Yandex.Disk cloud storage](https://github.com/AlexRax277/-1-)
 - [VKinder chatbot](https://github.com/AlexRax277/VKinder_test)
 - [Online-chat](https://github.com/AlexRax277/js_adv2_8th_lesson)
-- [CRUD application, feed with posts](https://github.com/AlexRax277/react-ninthLesson-2task)
+- [CRUD application: PostNews](https://github.com/AlexRax277/react-ninthLesson-2task)
 ## My [CV](CV.pdf) 
 ## Technologies I have ever used:
 ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
