@@ -9,7 +9,7 @@
     <h1 align="center">Hi there, my name is <a href="https://alexrax277.github.io/business_card_website.github.io/" target="_blank">Alexander Rakovchen</a> 
     <img src="Hi.gif" height="32"/></h1>
     <h3>I'm fullstack developer, <a href="https://netology.ru/">Netology Ltd</a> graduate.</h3>
-    <h3>I'm currently looking for a job in web development. I'm planning to become part of a friendly and professional team where I could develop my skills in languages such as python and java script to achieve team results.</h3>
+    <h3>I'm currently looking for a job in web development and planning to become part of a friendly and professional team where I could develop my skills in languages such as python and java script to achieve team results.</h3>
     <h3>I successfully completed the following courses:
         <em>
             <ol>
@@ -25,8 +25,8 @@
                 <li>React: Library № 1 in modern web development<a href="https://github.com/AlexRax277/AlexRax277/blob/main/My_certificates/certificate-js_react.pdf"> (certificate)</a>.</li>          
         </em>
     </h3>
-    <img src='./pngCV.png' width='70px'/>
-    <span> My <a href='./CV.pdf'>CV</a></span>
+    <img src='./pngCV.png' width='70px' display='inline-block'/>
+    <span> Here my <a href='./CV.pdf'>CV</a></span>
 </body>
 </html>
 
