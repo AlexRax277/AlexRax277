@@ -1,33 +1,32 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-    <h1 align="center">Hi there, my name is <a href="https://alexrax277.github.io/business_card_website.github.io/" target="_blank">Alexander Rakovchen</a> 
-    <img src="Hi.gif" height="32"/></h1>
-    <h3>I'm fullstack developer, <a href="https://netology.ru/">Netology Ltd</a> graduate.</h3>
-    <h3>I'm currently looking for a job in web development and planning to become part of a friendly and professional team where I could develop my skills in languages such as python and java script to achieve team results.</h3>
-    <h3>I successfully completed the following courses:
-        <em>
-            <ol>
-                <li>Fundamentals of Python programming language<a href="https://github.com/AlexRax277/AlexRax277/blob/main/My_certificates/certificate_py_basic.pdf"> (certificate);</a></li>
-                <li>Git - version control system<a href="https://github.com/AlexRax277/AlexRax277/blob/main/My_certificates/certificate_git.pdf"> (certificate)</a>;</li>
-                <li>Databases for python developers<a href="https://github.com/AlexRax277/AlexRax277/blob/main/My_certificates/certificate_SQL.pdf"> (certificate)</a>;</li>
-                <li>Professional work with Python<a href="https://github.com/AlexRax277/AlexRax277/blob/main/My_certificates/certificate_py_advanced.pdf"> (certificate)</a>;</li>
-                <li>Django: Creating Functional Web Applications<a href="https://github.com/AlexRax277/AlexRax277/blob/main/My_certificates/certificate_django.pdf"> (certificate)</a>;</li>
-                <li>HTML and CSS: Basics of Web Design<a href="https://github.com/AlexRax277/AlexRax277/blob/main/My_certificates/certificate_html_css.pdf"> (certificate)</a>;</li>
-                <li>JavaScript: Browser basics<a href="https://github.com/AlexRax277/AlexRax277/blob/main/My_certificates/certificate_JavaScript_basic.pdf"> (certificate)</a>.</li>
-                <li>JavaScript: Advanced Web Development Course<a href="https://github.com/AlexRax277/AlexRax277/blob/main/My_certificates/certificate-js_advanced.pdf"> (certificate)</a>.</li>
-                <li>Advanced JavaScript tools in the browser<a href="https://github.com/AlexRax277/AlexRax277/blob/main/My_certificates/certificate-js_advanced2.pdf"> (certificate)</a>.</li>
-                <li>React: Library № 1 in modern web development<a href="https://github.com/AlexRax277/AlexRax277/blob/main/My_certificates/certificate-js_react.pdf"> (certificate)</a>.</li>          
-        </em>
-    </h3>
-    <img src='./pngCV.png' width='70px' display='inline-block'/>
-    <span> Here my <a href='./CV.pdf'>CV</a></span>
-</body>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <h1 align="center">Hi there, my name is <a href="https://alexrax277.github.io/business_card_website.github.io/" target="_blank">Alexander Rakovchen</a> 
+        <img src="Hi.gif" height="32"/></h1>
+        <h3>I'm fullstack developer, <a href="https://netology.ru/">Netology Ltd</a> graduate.</h3>
+        <h3>I'm currently looking for a job in web development and planning to become part of a friendly and professional team where I could develop my skills in languages such as python and java script to achieve team results.</h3>
+        <h3>I successfully completed the following courses:
+            <em>
+                <ol>
+                    <li>Fundamentals of Python programming language<a href="https://github.com/AlexRax277/AlexRax277/blob/main/My_certificates/certificate_py_basic.pdf"> (certificate);</a></li>
+                    <li>Git - version control system<a href="https://github.com/AlexRax277/AlexRax277/blob/main/My_certificates/certificate_git.pdf"> (certificate)</a>;</li>
+                    <li>Databases for python developers<a href="https://github.com/AlexRax277/AlexRax277/blob/main/My_certificates/certificate_SQL.pdf"> (certificate)</a>;</li>
+                    <li>Professional work with Python<a href="https://github.com/AlexRax277/AlexRax277/blob/main/My_certificates/certificate_py_advanced.pdf"> (certificate)</a>;</li>
+                    <li>Django: Creating Functional Web Applications<a href="https://github.com/AlexRax277/AlexRax277/blob/main/My_certificates/certificate_django.pdf"> (certificate)</a>;</li>
+                    <li>HTML and CSS: Basics of Web Design<a href="https://github.com/AlexRax277/AlexRax277/blob/main/My_certificates/certificate_html_css.pdf"> (certificate)</a>;</li>
+                    <li>JavaScript: Browser basics<a href="https://github.com/AlexRax277/AlexRax277/blob/main/My_certificates/certificate_JavaScript_basic.pdf"> (certificate)</a>.</li>
+                    <li>JavaScript: Advanced Web Development Course<a href="https://github.com/AlexRax277/AlexRax277/blob/main/My_certificates/certificate-js_advanced.pdf"> (certificate)</a>.</li>
+                    <li>Advanced JavaScript tools in the browser<a href="https://github.com/AlexRax277/AlexRax277/blob/main/My_certificates/certificate-js_advanced2.pdf"> (certificate)</a>.</li>
+                    <li>React: Library № 1 in modern web development<a href="https://github.com/AlexRax277/AlexRax277/blob/main/My_certificates/certificate-js_react.pdf"> (certificate)</a>.</li>          
+            </em>
+        </h3>
+        <span><img src='./pngCV.png' width='70px'/> Here my <a href='./CV.pdf'>CV</a></span>
+    </body>
 </html>
 
 ## My course projects:
