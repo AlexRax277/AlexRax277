@@ -6,8 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
     </head>
     <body>
-        <h2 align="center">Hello! My name is Alexander Rakovchen</a> 
-        <img src="Hi.gif" height="32"/></h2>
+        <h2>Hello! My name is Alexander Rakovchen</a></h2>
         <p>I'm a Fullstack Developer with a degree from <a href="https://netology.ru/">Netology Ltd.</a> </p>
         <p>I'm on the lookout for exciting projects and the opportunity to join a friendly and professional team. Ready to further develop my skills in programming languages such as Python and JavaScript to achieve our team goals.</p>
         <p>A few words about me:
