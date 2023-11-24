@@ -6,11 +6,25 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
     </head>
     <body>
-        <h1 align="center">Hi there, my name is <a href="https://alexrax277.github.io/business_card_website.github.io/" target="_blank">Alexander Rakovchen</a> 
-        <img src="Hi.gif" height="32"/></h1>
-        <h3>I'm fullstack developer, <a href="https://netology.ru/">Netology Ltd</a> graduate.</h3>
-        <h3>I'm currently looking for a job in web development and planning to become part of a friendly and professional team where I could develop my skills in languages such as python and java script to achieve team results.</h3>
-        <h3>I successfully completed the following courses:
+        <h2 align="center">Hello! My name is Alexander Rakovchen</a> 
+        <img src="Hi.gif" height="32"/></h2>
+        <p>I'm a Fullstack Developer with a degree from <a href="https://netology.ru/">Netology Ltd.</a> </p>
+        <p>I'm on the lookout for exciting projects and the opportunity to join a friendly and professional team. Ready to further develop my skills in programming languages such as Python and JavaScript to achieve our team goals.</p>
+        <p>A few words about me:
+            <ul>
+                <li><b>Experience:</b> I work in web development, covering both frontend and backend.</li>
+                <li><b>Education:</b> Completed my studies at Netology Ltd, but learning is an ongoing process for me.</li>
+                <li><b>Courses:</b> Successfully completed a series of courses covering various aspects of web development.</li>
+            </ul>
+        </p>
+        <p>What I'm looking for:
+            <ul>
+                <li><b>Dynamic Environment:</b> Where I can contribute and grow professionally.</li>
+                <li><b>Innovation:</b> Ready to be part of projects that change the game.</li>
+                <li><b>Team:</b> Where each member is valued and essential to achieving common goals.</li>
+            </ul>
+        </p>
+        <p>Courses, that I successfully completed:
             <em>
                 <ol>
                     <li>Fundamentals of Python programming language<a href="https://github.com/AlexRax277/AlexRax277/blob/main/My_certificates/certificate_py_basic.pdf"> (certificate);</a></li>
@@ -24,19 +38,25 @@
                     <li>Advanced JavaScript tools in the browser<a href="https://github.com/AlexRax277/AlexRax277/blob/main/My_certificates/certificate-js_advanced2.pdf"> (certificate)</a>.</li>
                     <li>React: Library № 1 in modern web development<a href="https://github.com/AlexRax277/AlexRax277/blob/main/My_certificates/certificate-js_react.pdf"> (certificate)</a>.</li>          
             </em>
-        </h3>
-        <span><img src='./pngCV.png' width='70px'/> Here my <a href='./CV.pdf'>CV</a></span>
+        </p>
+        <div><img src='./pngCV.png' width='70px'/> 
+        <b>Here my CV:</b>
+            <ul>
+                <li><a href='./CV_RakovchenAV-frontend.pdf'>Frontend</a></li>
+                <li><a href='./CV_RakovchenAV.pdf'>Fullstack</a></li>
+            </ul>
+        </div>
     </body>
 </html>
 
-## My course projects:
+### My course projects:
 - [Writing a software to back up photos from vk to Yandex.Disk cloud storage](https://github.com/AlexRax277/-1-)
 - [VKinder chatbot](https://github.com/AlexRax277/VKinder_test)
 - [Online-chat](https://github.com/AlexRax277/js_adv2_8th_lesson)
 - [CRUD application: PostNews](https://github.com/AlexRax277/react-ninthLesson-2task)
 
 <!-- ## ![My CV](/pngCV.png "[Click here](CV.pdf)")  -->
-## Technologies I have ever used:
+### Technologies I have ever used:
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
