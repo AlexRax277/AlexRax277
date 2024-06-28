@@ -38,12 +38,9 @@
                     <li>React: Library № 1 in modern web development<a href="https://github.com/AlexRax277/AlexRax277/blob/main/My_certificates/certificate-js_react.pdf"> (certificate)</a>.</li>          
             </em>
         </p>
-        <div><img src='./pngCV.png' width='70px'/> 
-        <b>Here my CV:</b>
-            <ul>
-                <li><a href='./CV_RakovchenAV-frontend.pdf'>Frontend</a></li>
-                <li><a href='./CV_RakovchenAV.pdf'>Fullstack</a></li>
-            </ul>
+        <div>
+            <img src='./pngCV.png' width='70px'/> 
+            <span>Here my <a href='./CV.md'><b>CV</b></a></span>
         </div>
     </body>
 </html>
